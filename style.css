@@ -1,0 +1,15 @@
+.page{
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-color: #132513;
+    width: 100vh;
+}
+
+.header__title{
+    font-size: 15vh;
+    color: #fff;
+    width: 100vh;
+}
